@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nft-card/nft-card.iml" filepath="$PROJECT_DIR$/nft-card/nft-card.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nft-card/nft-card-api/nft-card-api.iml" filepath="$PROJECT_DIR$/nft-card/nft-card-api/nft-card-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nft-card/nft-card-app/nft-card-app.iml" filepath="$PROJECT_DIR$/nft-card/nft-card-app/nft-card-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nft-common/nft-common.iml" filepath="$PROJECT_DIR$/nft-common/nft-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nft-gateway/nft-gateway.iml" filepath="$PROJECT_DIR$/nft-gateway/nft-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nft-parent.iml" filepath="$PROJECT_DIR$/nft-parent.iml" />
+    </modules>
+  </component>
+</project>
